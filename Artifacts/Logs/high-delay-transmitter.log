@@ -1,0 +1,2951 @@
+[INFO][2020-12-3 19:29:38] Host found: 192.168.1.78
+[INFO][2020-12-3 19:29:38] The network emulator's port is: 50001
+[INFO][2020-12-3 19:29:38] Sending data in file path: ./resource/message.txt
+[INFO][2020-12-3 19:29:38] Number of lines in the file are: 150
+[INFO][2020-12-3 19:29:38] Current window size: 1
+[INFO][2020-12-3 19:29:38] Sent DATA (seqNum: 1)
+{
+    packetType: DATA,
+    seqNum: 1,
+    data: BEGIN,
+    windowSize: 1,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:38] Window of packets sent, waiting for ACKs
+[INFO][2020-12-3 19:29:39] Received ACK (ackNum: 1)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 1,
+    ackNum: 1,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:39] Updating timeout interval: 2283
+[INFO][2020-12-3 19:29:39] All ACKs received
+
+[INFO][2020-12-3 19:29:39] Current window size: 2
+[INFO][2020-12-3 19:29:39] Sent DATA (seqNum: 2)
+{
+    packetType: DATA,
+    seqNum: 2,
+    data: Final Project:,
+    windowSize: 2,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:39] Sent DATA (seqNum: 3)
+{
+    packetType: DATA,
+    seqNum: 3,
+    data: Due: December 2, 2020 at 1000 hrs. Late submissions will not be accepted. ,
+    windowSize: 2,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:39] Window of packets sent, waiting for ACKs
+[INFO][2020-12-3 19:29:39] Received ACK (ackNum: 2)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 2,
+    ackNum: 2,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:39] Updating timeout interval: 2388
+[INFO][2020-12-3 19:29:39] Received ACK (ackNum: 3)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 2,
+    ackNum: 3,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:39] Updating timeout interval: 2291
+[INFO][2020-12-3 19:29:39] All ACKs received
+
+[INFO][2020-12-3 19:29:39] Current window size: 4
+[INFO][2020-12-3 19:29:39] Sent DATA (seqNum: 4)
+{
+    packetType: DATA,
+    seqNum: 4,
+    data: ,
+    windowSize: 4,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:39] Sent DATA (seqNum: 5)
+{
+    packetType: DATA,
+    seqNum: 5,
+    data: You may work in groups of two. ,
+    windowSize: 4,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:39] Sent DATA (seqNum: 6)
+{
+    packetType: DATA,
+    seqNum: 6,
+    data: ,
+    windowSize: 4,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:39] Sent DATA (seqNum: 7)
+{
+    packetType: DATA,
+    seqNum: 7,
+    data: Objective: ,
+    windowSize: 4,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:39] Window of packets sent, waiting for ACKs
+[INFO][2020-12-3 19:29:40] Received ACK (ackNum: 4)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 4,
+    ackNum: 4,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:40] Updating timeout interval: 2099
+[INFO][2020-12-3 19:29:40] Received ACK (ackNum: 5)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 4,
+    ackNum: 5,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:40] Updating timeout interval: 1845
+[INFO][2020-12-3 19:29:40] Received ACK (ackNum: 6)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 4,
+    ackNum: 6,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:40] Updating timeout interval: 1578
+[INFO][2020-12-3 19:29:40] Received ACK (ackNum: 7)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 4,
+    ackNum: 7,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:40] Updating timeout interval: 1480
+[INFO][2020-12-3 19:29:40] All ACKs received
+
+[INFO][2020-12-3 19:29:40] Current window size: 8
+[INFO][2020-12-3 19:29:40] Sent DATA (seqNum: 8)
+{
+    packetType: DATA,
+    seqNum: 8,
+    data: The objective of this project is to design and implement a basic Send-And-Wait protocol ,
+    windowSize: 8,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:40] Sent DATA (seqNum: 9)
+{
+    packetType: DATA,
+    seqNum: 9,
+    data: simulator. The protocol will be half-duplex and use sliding windows to send multiple ,
+    windowSize: 8,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:40] Sent DATA (seqNum: 10)
+{
+    packetType: DATA,
+    seqNum: 10,
+    data: packets between to hosts on a LAN with an “unreliable network” between the two hosts. ,
+    windowSize: 8,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:40] Sent DATA (seqNum: 11)
+{
+    packetType: DATA,
+    seqNum: 11,
+    data: The following diagram depicts the model: ,
+    windowSize: 8,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:40] Sent DATA (seqNum: 12)
+{
+    packetType: DATA,
+    seqNum: 12,
+    data: ,
+    windowSize: 8,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:40] Sent DATA (seqNum: 13)
+{
+    packetType: DATA,
+    seqNum: 13,
+    data: Your Mission: ,
+    windowSize: 8,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:40] Sent DATA (seqNum: 14)
+{
+    packetType: DATA,
+    seqNum: 14,
+    data: • You may use any language of your choice to implement the three components shown ,
+    windowSize: 8,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:40] Sent DATA (seqNum: 15)
+{
+    packetType: DATA,
+    seqNum: 15,
+    data: in the diagram above. It is strongly recommended that you use your code from the ,
+    windowSize: 8,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:40] Window of packets sent, waiting for ACKs
+[INFO][2020-12-3 19:29:41] Received ACK (ackNum: 8)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 8,
+    ackNum: 8,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:41] Updating timeout interval: 1588
+[INFO][2020-12-3 19:29:41] Received ACK (ackNum: 9)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 8,
+    ackNum: 9,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:41] Updating timeout interval: 1749
+[INFO][2020-12-3 19:29:41] Received ACK (ackNum: 10)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 8,
+    ackNum: 10,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:41] Updating timeout interval: 1941
+[INFO][2020-12-3 19:29:41] Received ACK (ackNum: 11)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 8,
+    ackNum: 11,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:41] Updating timeout interval: 2152
+[INFO][2020-12-3 19:29:42] Received ACK (ackNum: 12)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 8,
+    ackNum: 12,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:42] Updating timeout interval: 2373
+[INFO][2020-12-3 19:29:42] Received ACK (ackNum: 13)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 8,
+    ackNum: 13,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:42] Updating timeout interval: 2600
+[INFO][2020-12-3 19:29:42] Received ACK (ackNum: 14)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 8,
+    ackNum: 14,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:42] Updating timeout interval: 2823
+[INFO][2020-12-3 19:29:42] Received ACK (ackNum: 15)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 8,
+    ackNum: 15,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:42] Updating timeout interval: 3042
+[INFO][2020-12-3 19:29:42] All ACKs received
+
+[INFO][2020-12-3 19:29:42] Current window size: 16
+[INFO][2020-12-3 19:29:42] Sent DATA (seqNum: 16)
+{
+    packetType: DATA,
+    seqNum: 16,
+    data: first assignment to implement the peer stations.  ,
+    windowSize: 16,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:42] Sent DATA (seqNum: 17)
+{
+    packetType: DATA,
+    seqNum: 17,
+    data: ,
+    windowSize: 16,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:42] Sent DATA (seqNum: 18)
+{
+    packetType: DATA,
+    seqNum: 18,
+    data: • You will be designing an application layer protocol, in this case on top of UDP (in ,
+    windowSize: 16,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:42] Sent DATA (seqNum: 19)
+{
+    packetType: DATA,
+    seqNum: 19,
+    data: keeping with the wireless channel model). The protocol should be able to handle ,
+    windowSize: 16,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:42] Sent DATA (seqNum: 20)
+{
+    packetType: DATA,
+    seqNum: 20,
+    data: network errors such as packet loss and duplicate packets. You will implement ,
+    windowSize: 16,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:42] Sent DATA (seqNum: 21)
+{
+    packetType: DATA,
+    seqNum: 21,
+    data: timeouts and ACKs to handle retransmissions due to lost packets (ARQ). ,
+    windowSize: 16,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:42] Sent DATA (seqNum: 22)
+{
+    packetType: DATA,
+    seqNum: 22,
+    data: ,
+    windowSize: 16,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:42] Sent DATA (seqNum: 23)
+{
+    packetType: DATA,
+    seqNum: 23,
+    data: • The network emulator will act as an unreliable channel over with the packets will be ,
+    windowSize: 16,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:42] Sent DATA (seqNum: 24)
+{
+    packetType: DATA,
+    seqNum: 24,
+    data: sent. This means that transmitter will send the packets to the network emulator ,
+    windowSize: 16,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:42] Sent DATA (seqNum: 25)
+{
+    packetType: DATA,
+    seqNum: 25,
+    data: which in turn will forward them to the receiver. The receiver in turn will send ACKs ,
+    windowSize: 16,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:42] Sent DATA (seqNum: 26)
+{
+    packetType: DATA,
+    seqNum: 26,
+    data: back to the transmitter via the network emulator.,
+    windowSize: 16,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:42] Sent DATA (seqNum: 27)
+{
+    packetType: DATA,
+    seqNum: 27,
+    data: ,
+    windowSize: 16,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:42] Sent DATA (seqNum: 28)
+{
+    packetType: DATA,
+    seqNum: 28,
+    data: • Your implementation of the network emulator will include a “noise” component ,
+    windowSize: 16,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:42] Sent DATA (seqNum: 29)
+{
+    packetType: DATA,
+    seqNum: 29,
+    data: which will randomly discard packets (and ACKs as well) to achieve a specified bit ,
+    windowSize: 16,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:42] Sent DATA (seqNum: 30)
+{
+    packetType: DATA,
+    seqNum: 30,
+    data: error rate. This can be specified as part of command line arguments.  ,
+    windowSize: 16,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:42] Sent DATA (seqNum: 31)
+{
+    packetType: DATA,
+    seqNum: 31,
+    data: ,
+    windowSize: 16,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:42] Window of packets sent, waiting for ACKs
+[INFO][2020-12-3 19:29:44] Received ACK (ackNum: 16)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 16,
+    ackNum: 16,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:44] Updating timeout interval: 3270
+[INFO][2020-12-3 19:29:44] Received ACK (ackNum: 17)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 16,
+    ackNum: 17,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:44] Updating timeout interval: 3476
+[INFO][2020-12-3 19:29:44] Received ACK (ackNum: 18)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 16,
+    ackNum: 18,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:44] Updating timeout interval: 3673
+[INFO][2020-12-3 19:29:44] Received ACK (ackNum: 19)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 16,
+    ackNum: 19,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:44] Updating timeout interval: 3860
+[INFO][2020-12-3 19:29:44] Received ACK (ackNum: 20)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 16,
+    ackNum: 20,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:44] Updating timeout interval: 4041
+[INFO][2020-12-3 19:29:44] Received ACK (ackNum: 21)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 16,
+    ackNum: 21,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:44] Updating timeout interval: 4225
+[INFO][2020-12-3 19:29:44] Received ACK (ackNum: 22)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 16,
+    ackNum: 22,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:44] Updating timeout interval: 4390
+[INFO][2020-12-3 19:29:45] Received ACK (ackNum: 23)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 16,
+    ackNum: 23,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:45] Updating timeout interval: 4548
+[INFO][2020-12-3 19:29:45] Received ACK (ackNum: 25)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 16,
+    ackNum: 25,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:45] Updating timeout interval: 4813
+[INFO][2020-12-3 19:29:45] Received ACK (ackNum: 26)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 16,
+    ackNum: 26,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:45] Updating timeout interval: 5000
+[INFO][2020-12-3 19:29:45] Received ACK (ackNum: 27)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 16,
+    ackNum: 27,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:45] Updating timeout interval: 5000
+[INFO][2020-12-3 19:29:45] Received ACK (ackNum: 28)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 16,
+    ackNum: 28,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:45] Updating timeout interval: 5000
+[INFO][2020-12-3 19:29:45] Received ACK (ackNum: 29)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 16,
+    ackNum: 29,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:45] Updating timeout interval: 5000
+[INFO][2020-12-3 19:29:45] Received ACK (ackNum: 30)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 16,
+    ackNum: 30,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:45] Updating timeout interval: 5000
+[INFO][2020-12-3 19:29:45] Received ACK (ackNum: 31)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 16,
+    ackNum: 31,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:45] Updating timeout interval: 5000
+[INFO][2020-12-3 19:29:47] RTT (5000) >= Timeout Interval (=5000), packet loss event detected
+[INFO][2020-12-3 19:29:47] Retransmitting 1 unACKs...
+[INFO][2020-12-3 19:29:47] Updating timeout interval: 5000
+[INFO][2020-12-3 19:29:47] Received ACK (ackNum: 24)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 16,
+    ackNum: 24,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:47] Updating timeout interval: 5000
+[INFO][2020-12-3 19:29:47] All ACKs received
+
+[INFO][2020-12-3 19:29:47] Current window size: 11
+[INFO][2020-12-3 19:29:47] Sent DATA (seqNum: 32)
+{
+    packetType: DATA,
+    seqNum: 32,
+    data: • Your overall application architecture will have a minimum of three source modules: ,
+    windowSize: 11,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:47] Sent DATA (seqNum: 33)
+{
+    packetType: DATA,
+    seqNum: 33,
+    data: transmitter, receiver, and network as well as any associated include files and libraries ,
+    windowSize: 11,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:47] Sent DATA (seqNum: 34)
+{
+    packetType: DATA,
+    seqNum: 34,
+    data: if necessary. For the purposes of simplicity it is recommended that the IP addresses ,
+    windowSize: 11,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:47] Sent DATA (seqNum: 35)
+{
+    packetType: DATA,
+    seqNum: 35,
+    data: and of the transmitter, sender and network be extracted from a common ,
+    windowSize: 11,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:47] Sent DATA (seqNum: 36)
+{
+    packetType: DATA,
+    seqNum: 36,
+    data: configuration file. The port numbers can also be part of the configuration file. ,
+    windowSize: 11,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:47] Sent DATA (seqNum: 37)
+{
+    packetType: DATA,
+    seqNum: 37,
+    data: ,
+    windowSize: 11,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:47] Sent DATA (seqNum: 38)
+{
+    packetType: DATA,
+    seqNum: 38,
+    data: • One side will be allowed to acquired the channel first and send all of its packets. An ,
+    windowSize: 11,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:47] Sent DATA (seqNum: 39)
+{
+    packetType: DATA,
+    seqNum: 39,
+    data: End of Transmission (EOT) will indicate that it has completed sending all of its ,
+    windowSize: 11,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:47] Sent DATA (seqNum: 40)
+{
+    packetType: DATA,
+    seqNum: 40,
+    data: packets, after which the other side can start sending packets.  ,
+    windowSize: 11,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:47] Sent DATA (seqNum: 41)
+{
+    packetType: DATA,
+    seqNum: 41,
+    data: ,
+    windowSize: 11,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:47] Sent DATA (seqNum: 42)
+{
+    packetType: DATA,
+    seqNum: 42,
+    data: • The following structure depicts a suggested packet format (C example): ,
+    windowSize: 11,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:47] Window of packets sent, waiting for ACKs
+[INFO][2020-12-3 19:29:49] Received ACK (ackNum: 32)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 11,
+    ackNum: 32,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:49] Updating timeout interval: 5000
+[INFO][2020-12-3 19:29:49] Received ACK (ackNum: 34)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 11,
+    ackNum: 34,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:49] Updating timeout interval: 5000
+[INFO][2020-12-3 19:29:49] Received ACK (ackNum: 35)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 11,
+    ackNum: 35,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:49] Updating timeout interval: 5000
+[INFO][2020-12-3 19:29:49] Received ACK (ackNum: 36)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 11,
+    ackNum: 36,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:49] Updating timeout interval: 5000
+[INFO][2020-12-3 19:29:49] Received ACK (ackNum: 37)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 11,
+    ackNum: 37,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:49] Updating timeout interval: 5000
+[INFO][2020-12-3 19:29:49] Received ACK (ackNum: 38)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 11,
+    ackNum: 38,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:49] Updating timeout interval: 4596
+[INFO][2020-12-3 19:29:49] Received ACK (ackNum: 41)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 11,
+    ackNum: 41,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:49] Updating timeout interval: 4060
+[INFO][2020-12-3 19:29:50] Received ACK (ackNum: 42)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 11,
+    ackNum: 42,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:50] Updating timeout interval: 3760
+[INFO][2020-12-3 19:29:51] RTT (3761) >= Timeout Interval (=3760), packet loss event detected
+[INFO][2020-12-3 19:29:51] Retransmitting 3 unACKs...
+[INFO][2020-12-3 19:29:51] Updating timeout interval: 4912
+[INFO][2020-12-3 19:29:51] Received ACK (ackNum: 33)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 11,
+    ackNum: 33,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:51] Updating timeout interval: 5000
+[INFO][2020-12-3 19:29:52] Received ACK (ackNum: 39)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 11,
+    ackNum: 39,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:52] Updating timeout interval: 5000
+[INFO][2020-12-3 19:29:52] Received ACK (ackNum: 40)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 11,
+    ackNum: 40,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:52] Updating timeout interval: 5000
+[INFO][2020-12-3 19:29:52] All ACKs received
+
+[INFO][2020-12-3 19:29:52] Current window size: 12
+[INFO][2020-12-3 19:29:52] Sent DATA (seqNum: 43)
+{
+    packetType: DATA,
+    seqNum: 43,
+    data: ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:52] Sent DATA (seqNum: 44)
+{
+    packetType: DATA,
+    seqNum: 44,
+    data: struct packet  ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:52] Sent DATA (seqNum: 45)
+{
+    packetType: DATA,
+    seqNum: 45,
+    data: { ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:52] Sent DATA (seqNum: 46)
+{
+    packetType: DATA,
+    seqNum: 46,
+    data: int PacketType; ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:52] Sent DATA (seqNum: 47)
+{
+    packetType: DATA,
+    seqNum: 47,
+    data: int SeqNum; ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:52] Sent DATA (seqNum: 48)
+{
+    packetType: DATA,
+    seqNum: 48,
+    data: char data[PayloadLen]; ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:52] Sent DATA (seqNum: 49)
+{
+    packetType: DATA,
+    seqNum: 49,
+    data: int WindowSize;  ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:52] Sent DATA (seqNum: 50)
+{
+    packetType: DATA,
+    seqNum: 50,
+    data: int AckNum; ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:52] Sent DATA (seqNum: 51)
+{
+    packetType: DATA,
+    seqNum: 51,
+    data: } ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:52] Sent DATA (seqNum: 52)
+{
+    packetType: DATA,
+    seqNum: 52,
+    data: ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:52] Sent DATA (seqNum: 53)
+{
+    packetType: DATA,
+    seqNum: 53,
+    data: • The PacketType field indicates the type (numeric code) of the packet, i.e., ACK or ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:52] Sent DATA (seqNum: 54)
+{
+    packetType: DATA,
+    seqNum: 54,
+    data: Data or EOT.  ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:52] Window of packets sent, waiting for ACKs
+[INFO][2020-12-3 19:29:53] Received ACK (ackNum: 43)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 43,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:53] Updating timeout interval: 5000
+[INFO][2020-12-3 19:29:53] Received ACK (ackNum: 44)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 44,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:53] Updating timeout interval: 4398
+[INFO][2020-12-3 19:29:53] Received ACK (ackNum: 45)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 45,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:53] Updating timeout interval: 3762
+[INFO][2020-12-3 19:29:54] Received ACK (ackNum: 46)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 46,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:54] Updating timeout interval: 3353
+[INFO][2020-12-3 19:29:54] Received ACK (ackNum: 47)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 47,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:54] Updating timeout interval: 3148
+[INFO][2020-12-3 19:29:54] Received ACK (ackNum: 48)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 48,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:54] Updating timeout interval: 3086
+[INFO][2020-12-3 19:29:54] Received ACK (ackNum: 49)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 49,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:54] Updating timeout interval: 3126
+[INFO][2020-12-3 19:29:54] Received ACK (ackNum: 50)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 50,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:54] Updating timeout interval: 3234
+[INFO][2020-12-3 19:29:54] Received ACK (ackNum: 51)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 51,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:54] Updating timeout interval: 3386
+[INFO][2020-12-3 19:29:54] Received ACK (ackNum: 52)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 52,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:54] Updating timeout interval: 3572
+[INFO][2020-12-3 19:29:54] Received ACK (ackNum: 53)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 53,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:54] Updating timeout interval: 3772
+[INFO][2020-12-3 19:29:54] Received ACK (ackNum: 54)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 54,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:54] Updating timeout interval: 3986
+[INFO][2020-12-3 19:29:54] All ACKs received
+
+[INFO][2020-12-3 19:29:54] Current window size: 20
+[INFO][2020-12-3 19:29:54] Sent DATA (seqNum: 55)
+{
+    packetType: DATA,
+    seqNum: 55,
+    data: ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:54] Sent DATA (seqNum: 56)
+{
+    packetType: DATA,
+    seqNum: 56,
+    data: • The SeqNum field is a sequence number used to number data packets. ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:54] Sent DATA (seqNum: 57)
+{
+    packetType: DATA,
+    seqNum: 57,
+    data: ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:54] Sent DATA (seqNum: 58)
+{
+    packetType: DATA,
+    seqNum: 58,
+    data: • The AckNum field is used to indicate the previous data packet data packet being ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:54] Sent DATA (seqNum: 59)
+{
+    packetType: DATA,
+    seqNum: 59,
+    data: acknowledged and the next expected sequence number.   ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:54] Sent DATA (seqNum: 60)
+{
+    packetType: DATA,
+    seqNum: 60,
+    data: ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:54] Sent DATA (seqNum: 61)
+{
+    packetType: DATA,
+    seqNum: 61,
+    data: • The WindowSize field would typically be used at the start of the session to establish ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:54] Sent DATA (seqNum: 62)
+{
+    packetType: DATA,
+    seqNum: 62,
+    data: the number of packets that will be sent from the transmitter to the receiver.  ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:54] Sent DATA (seqNum: 63)
+{
+    packetType: DATA,
+    seqNum: 63,
+    data: ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:54] Sent DATA (seqNum: 64)
+{
+    packetType: DATA,
+    seqNum: 64,
+    data: Constraints ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:54] Sent DATA (seqNum: 65)
+{
+    packetType: DATA,
+    seqNum: 65,
+    data: ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:54] Sent DATA (seqNum: 66)
+{
+    packetType: DATA,
+    seqNum: 66,
+    data: • The basic protocol is Send-and-Wait, however it is a modified version in that it will use ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:54] Sent DATA (seqNum: 67)
+{
+    packetType: DATA,
+    seqNum: 67,
+    data: a sliding window to send multiple frames rather than single frames. You will still have ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:54] Sent DATA (seqNum: 68)
+{
+    packetType: DATA,
+    seqNum: 68,
+    data: to implement a timer to wait for ACKs or to initiate a retransmission in the case of a ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:54] Sent DATA (seqNum: 69)
+{
+    packetType: DATA,
+    seqNum: 69,
+    data: no response for each frame in the window.,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:54] Sent DATA (seqNum: 70)
+{
+    packetType: DATA,
+    seqNum: 70,
+    data:    ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:54] Sent DATA (seqNum: 71)
+{
+    packetType: DATA,
+    seqNum: 71,
+    data: • Your window will slide forward with each ACK received, until all of the frames in the ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:54] Sent DATA (seqNum: 72)
+{
+    packetType: DATA,
+    seqNum: 72,
+    data: current window have been ACK’d.  ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:54] Sent DATA (seqNum: 73)
+{
+    packetType: DATA,
+    seqNum: 73,
+    data: ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:54] Sent DATA (seqNum: 74)
+{
+    packetType: DATA,
+    seqNum: 74,
+    data: • Both the transmitter and receiver will print out ongoing the session as simple text ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:54] Window of packets sent, waiting for ACKs
+[INFO][2020-12-3 19:29:57] Received ACK (ackNum: 55)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 55,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:57] Updating timeout interval: 4373
+[INFO][2020-12-3 19:29:57] Received ACK (ackNum: 56)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 56,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:57] Updating timeout interval: 4588
+[INFO][2020-12-3 19:29:57] Received ACK (ackNum: 57)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 57,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:57] Updating timeout interval: 4680
+[INFO][2020-12-3 19:29:57] Received ACK (ackNum: 58)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 58,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:57] Updating timeout interval: 4690
+[INFO][2020-12-3 19:29:57] Received ACK (ackNum: 59)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 59,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:57] Updating timeout interval: 4647
+[INFO][2020-12-3 19:29:57] Received ACK (ackNum: 60)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 60,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:57] Updating timeout interval: 4569
+[INFO][2020-12-3 19:29:58] Received ACK (ackNum: 61)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 61,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:58] Updating timeout interval: 4536
+[INFO][2020-12-3 19:29:58] Received ACK (ackNum: 62)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 62,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:58] Updating timeout interval: 4582
+[INFO][2020-12-3 19:29:58] Received ACK (ackNum: 63)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 63,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:58] Updating timeout interval: 4687
+[INFO][2020-12-3 19:29:58] Received ACK (ackNum: 64)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 64,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:58] Updating timeout interval: 4825
+[INFO][2020-12-3 19:29:58] Received ACK (ackNum: 65)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 65,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:58] Updating timeout interval: 4980
+[INFO][2020-12-3 19:29:58] Received ACK (ackNum: 66)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 66,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:58] Updating timeout interval: 5000
+[INFO][2020-12-3 19:29:58] Received ACK (ackNum: 67)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 67,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:58] Updating timeout interval: 5000
+[INFO][2020-12-3 19:29:58] Received ACK (ackNum: 68)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 68,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:58] Updating timeout interval: 5000
+[INFO][2020-12-3 19:29:58] Received ACK (ackNum: 69)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 69,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:58] Updating timeout interval: 5000
+[INFO][2020-12-3 19:29:59] Received ACK (ackNum: 70)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 70,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:59] Updating timeout interval: 5000
+[INFO][2020-12-3 19:29:59] Received ACK (ackNum: 71)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 71,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:59] Updating timeout interval: 5000
+[INFO][2020-12-3 19:29:59] Received ACK (ackNum: 72)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 72,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:59] Updating timeout interval: 5000
+[INFO][2020-12-3 19:29:59] Received ACK (ackNum: 73)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 73,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:59] Updating timeout interval: 5000
+[INFO][2020-12-3 19:29:59] Received ACK (ackNum: 74)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 74,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:59] Updating timeout interval: 5000
+[INFO][2020-12-3 19:29:59] All ACKs received
+
+[INFO][2020-12-3 19:29:59] Current window size: 20
+[INFO][2020-12-3 19:29:59] Sent DATA (seqNum: 75)
+{
+    packetType: DATA,
+    seqNum: 75,
+    data: lines containing the type of packet sent, type of packet received, the status of the ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:59] Sent DATA (seqNum: 76)
+{
+    packetType: DATA,
+    seqNum: 76,
+    data: window, sequence numbers, etc. The format of this display will be left up to you.  ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:59] Sent DATA (seqNum: 77)
+{
+    packetType: DATA,
+    seqNum: 77,
+    data: ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:59] Sent DATA (seqNum: 78)
+{
+    packetType: DATA,
+    seqNum: 78,
+    data: • Your application will maintain a log file at both the transmitter and the receiver. ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:59] Sent DATA (seqNum: 79)
+{
+    packetType: DATA,
+    seqNum: 79,
+    data: This can be used for both troubleshooting and for validating your protocol.  ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:59] Sent DATA (seqNum: 80)
+{
+    packetType: DATA,
+    seqNum: 80,
+    data: ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:59] Sent DATA (seqNum: 81)
+{
+    packetType: DATA,
+    seqNum: 81,
+    data: • Your network module will take arguments such as the BER (Bit Error Rate), average ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:59] Sent DATA (seqNum: 82)
+{
+    packetType: DATA,
+    seqNum: 82,
+    data: delay per packet, and will also have a configuration file specifying IP addresses and ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:59] Sent DATA (seqNum: 83)
+{
+    packetType: DATA,
+    seqNum: 83,
+    data: port numbers for the transmitter and receiver. ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:59] Sent DATA (seqNum: 84)
+{
+    packetType: DATA,
+    seqNum: 84,
+    data: ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:59] Sent DATA (seqNum: 85)
+{
+    packetType: DATA,
+    seqNum: 85,
+    data: • You are required to submit an extensive test document complete with screen shots, ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:59] Sent DATA (seqNum: 86)
+{
+    packetType: DATA,
+    seqNum: 86,
+    data: videos, and packet captures validating all of the protocol characteristics you have ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:59] Sent DATA (seqNum: 87)
+{
+    packetType: DATA,
+    seqNum: 87,
+    data: implemented. Examples are successful transactions, retransmissions, timeouts, etc.  ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:59] Sent DATA (seqNum: 88)
+{
+    packetType: DATA,
+    seqNum: 88,
+    data: ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:59] Sent DATA (seqNum: 89)
+{
+    packetType: DATA,
+    seqNum: 89,
+    data: • As part of this project you will provide a protocol design document (separate from ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:59] Sent DATA (seqNum: 90)
+{
+    packetType: DATA,
+    seqNum: 90,
+    data: the application design document), which will clearly describe your Send-And-Wait ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:59] Sent DATA (seqNum: 91)
+{
+    packetType: DATA,
+    seqNum: 91,
+    data: protocol using FSMs and technical descriptions of each state shown. Use the ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:59] Sent DATA (seqNum: 92)
+{
+    packetType: DATA,
+    seqNum: 92,
+    data: approach presented in your textbook (rdt protocol). ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:59] Sent DATA (seqNum: 93)
+{
+    packetType: DATA,
+    seqNum: 93,
+    data: ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:59] Sent DATA (seqNum: 94)
+{
+    packetType: DATA,
+    seqNum: 94,
+    data: • Lastly, I have kept the project itself fairly open-ended to allow you to be as creative ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:29:59] Window of packets sent, waiting for ACKs
+[INFO][2020-12-3 19:30:3] Received ACK (ackNum: 76)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 76,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:3] Updating timeout interval: 5000
+[INFO][2020-12-3 19:30:3] Received ACK (ackNum: 77)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 77,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:3] Updating timeout interval: 5000
+[INFO][2020-12-3 19:30:3] Received ACK (ackNum: 78)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 78,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:3] Updating timeout interval: 5000
+[INFO][2020-12-3 19:30:3] Received ACK (ackNum: 79)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 79,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:3] Updating timeout interval: 5000
+[INFO][2020-12-3 19:30:3] Received ACK (ackNum: 80)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 80,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:3] Updating timeout interval: 4840
+[INFO][2020-12-3 19:30:3] Received ACK (ackNum: 81)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 81,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:3] Updating timeout interval: 4685
+[INFO][2020-12-3 19:30:3] Received ACK (ackNum: 82)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 82,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:3] Updating timeout interval: 4561
+[INFO][2020-12-3 19:30:3] Received ACK (ackNum: 83)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 83,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:3] Updating timeout interval: 4464
+[INFO][2020-12-3 19:30:3] Received ACK (ackNum: 84)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 84,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:3] Updating timeout interval: 4386
+[INFO][2020-12-3 19:30:3] Received ACK (ackNum: 85)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 85,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:3] Updating timeout interval: 4323
+[INFO][2020-12-3 19:30:3] Received ACK (ackNum: 86)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 86,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:3] Updating timeout interval: 4272
+[INFO][2020-12-3 19:30:3] Received ACK (ackNum: 87)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 87,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:3] Updating timeout interval: 4232
+[INFO][2020-12-3 19:30:3] Received ACK (ackNum: 88)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 88,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:3] Updating timeout interval: 4200
+[INFO][2020-12-3 19:30:3] Received ACK (ackNum: 90)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 90,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:3] Updating timeout interval: 4262
+[INFO][2020-12-3 19:30:3] Received ACK (ackNum: 91)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 91,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:3] Updating timeout interval: 4409
+[INFO][2020-12-3 19:30:3] Received ACK (ackNum: 92)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 92,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:3] Updating timeout interval: 4610
+[INFO][2020-12-3 19:30:3] Received ACK (ackNum: 93)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 93,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:3] Updating timeout interval: 4849
+[INFO][2020-12-3 19:30:4] Received ACK (ackNum: 94)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 94,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:4] Updating timeout interval: 5000
+[INFO][2020-12-3 19:30:4] RTT (5000) >= Timeout Interval (=5000), packet loss event detected
+[INFO][2020-12-3 19:30:4] Retransmitting 2 unACKs...
+[INFO][2020-12-3 19:30:4] Updating timeout interval: 5000
+[INFO][2020-12-3 19:30:4] Received ACK (ackNum: 89)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 89,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:4] Updating timeout interval: 5000
+[INFO][2020-12-3 19:30:9] RTT (5000) >= Timeout Interval (=5000), packet loss event detected
+[INFO][2020-12-3 19:30:9] Retransmitting 1 unACKs...
+[INFO][2020-12-3 19:30:9] Updating timeout interval: 5000
+[INFO][2020-12-3 19:30:9] Received ACK (ackNum: 75)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 75,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:9] Updating timeout interval: 5000
+[INFO][2020-12-3 19:30:9] All ACKs received
+
+[INFO][2020-12-3 19:30:9] Current window size: 6
+[INFO][2020-12-3 19:30:9] Sent DATA (seqNum: 95)
+{
+    packetType: DATA,
+    seqNum: 95,
+    data: as you wish. In other words other than the half-duplex, multiple packet ARQ ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:9] Sent DATA (seqNum: 96)
+{
+    packetType: DATA,
+    seqNum: 96,
+    data: protocol requirement I am quite flexible in allowing you to add features and choose ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:9] Sent DATA (seqNum: 97)
+{
+    packetType: DATA,
+    seqNum: 97,
+    data: your own implementation method. As always if have ideas on how you will like to ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:9] Sent DATA (seqNum: 98)
+{
+    packetType: DATA,
+    seqNum: 98,
+    data: implement this by all means discuss it with me in class.  ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:9] Sent DATA (seqNum: 99)
+{
+    packetType: DATA,
+    seqNum: 99,
+    data: ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:9] Sent DATA (seqNum: 100)
+{
+    packetType: DATA,
+    seqNum: 100,
+    data: • Bonus marks will be awarded for implementations that show creativity and ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:9] Window of packets sent, waiting for ACKs
+[INFO][2020-12-3 19:30:10] Received ACK (ackNum: 95)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 95,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:10] Updating timeout interval: 5000
+[INFO][2020-12-3 19:30:10] Received ACK (ackNum: 96)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 96,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:10] Updating timeout interval: 5000
+[INFO][2020-12-3 19:30:10] Received ACK (ackNum: 97)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 97,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:10] Updating timeout interval: 5000
+[INFO][2020-12-3 19:30:10] Received ACK (ackNum: 98)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 98,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:10] Updating timeout interval: 5000
+[INFO][2020-12-3 19:30:10] Received ACK (ackNum: 99)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 99,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:10] Updating timeout interval: 5000
+[INFO][2020-12-3 19:30:10] Received ACK (ackNum: 100)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 100,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:10] Updating timeout interval: 5000
+[INFO][2020-12-3 19:30:10] All ACKs received
+
+[INFO][2020-12-3 19:30:10] Current window size: 12
+[INFO][2020-12-3 19:30:10] Sent DATA (seqNum: 101)
+{
+    packetType: DATA,
+    seqNum: 101,
+    data: imagination.  ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:10] Sent DATA (seqNum: 102)
+{
+    packetType: DATA,
+    seqNum: 102,
+    data: ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:10] Sent DATA (seqNum: 103)
+{
+    packetType: DATA,
+    seqNum: 103,
+    data: Demo Requirements: ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:10] Sent DATA (seqNum: 104)
+{
+    packetType: DATA,
+    seqNum: 104,
+    data: • You will be required to demonstrate your complete application using videos on all ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:10] Sent DATA (seqNum: 105)
+{
+    packetType: DATA,
+    seqNum: 105,
+    data: three machines.  ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:10] Sent DATA (seqNum: 106)
+{
+    packetType: DATA,
+    seqNum: 106,
+    data: ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:10] Sent DATA (seqNum: 107)
+{
+    packetType: DATA,
+    seqNum: 107,
+    data: • The demo video, which covers each one of your test cases. In other words, it will be ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:10] Sent DATA (seqNum: 108)
+{
+    packetType: DATA,
+    seqNum: 108,
+    data: similar to the live lab demo except you will be preparing a video of each test as ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:10] Sent DATA (seqNum: 109)
+{
+    packetType: DATA,
+    seqNum: 109,
+    data: opposed to me standing beside you observing each test.   ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:10] Sent DATA (seqNum: 110)
+{
+    packetType: DATA,
+    seqNum: 110,
+    data: ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:10] Sent DATA (seqNum: 111)
+{
+    packetType: DATA,
+    seqNum: 111,
+    data: • Also, make sure you have packet captures at all three machines for each test. ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:10] Sent DATA (seqNum: 112)
+{
+    packetType: DATA,
+    seqNum: 112,
+    data: ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:10] Window of packets sent, waiting for ACKs
+[INFO][2020-12-3 19:30:11] Received ACK (ackNum: 102)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 102,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:11] Updating timeout interval: 5000
+[INFO][2020-12-3 19:30:11] Received ACK (ackNum: 103)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 103,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:11] Updating timeout interval: 5000
+[INFO][2020-12-3 19:30:11] Received ACK (ackNum: 104)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 104,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:11] Updating timeout interval: 5000
+[INFO][2020-12-3 19:30:11] Received ACK (ackNum: 105)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 105,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:11] Updating timeout interval: 5000
+[INFO][2020-12-3 19:30:11] Received ACK (ackNum: 106)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 106,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:11] Updating timeout interval: 4406
+[INFO][2020-12-3 19:30:11] Received ACK (ackNum: 107)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 107,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:11] Updating timeout interval: 3847
+[INFO][2020-12-3 19:30:12] Received ACK (ackNum: 109)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 109,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:12] Updating timeout interval: 3300
+[INFO][2020-12-3 19:30:12] Received ACK (ackNum: 110)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 110,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:12] Updating timeout interval: 2879
+[INFO][2020-12-3 19:30:12] Received ACK (ackNum: 112)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 112,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:12] Updating timeout interval: 2630
+[INFO][2020-12-3 19:30:13] RTT (2631) >= Timeout Interval (=2630), packet loss event detected
+[INFO][2020-12-3 19:30:13] Retransmitting 3 unACKs...
+[INFO][2020-12-3 19:30:13] Updating timeout interval: 3450
+[INFO][2020-12-3 19:30:13] Received ACK (ackNum: 101)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 101,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:13] Updating timeout interval: 4133
+[INFO][2020-12-3 19:30:13] Received ACK (ackNum: 108)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 108,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:13] Updating timeout interval: 4436
+[INFO][2020-12-3 19:30:13] Received ACK (ackNum: 111)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 111,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:13] Updating timeout interval: 4478
+[INFO][2020-12-3 19:30:13] All ACKs received
+
+[INFO][2020-12-3 19:30:13] Current window size: 13
+[INFO][2020-12-3 19:30:13] Sent DATA (seqNum: 113)
+{
+    packetType: DATA,
+    seqNum: 113,
+    data: To Be Submitted Electronically: ,
+    windowSize: 13,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:13] Sent DATA (seqNum: 114)
+{
+    packetType: DATA,
+    seqNum: 114,
+    data: • As part of your submission, also submit demo videos of your application (see above). ,
+    windowSize: 13,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:13] Sent DATA (seqNum: 115)
+{
+    packetType: DATA,
+    seqNum: 115,
+    data: ,
+    windowSize: 13,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:13] Sent DATA (seqNum: 116)
+{
+    packetType: DATA,
+    seqNum: 116,
+    data: • Capture all network traffic related to your application on all three machines and ,
+    windowSize: 13,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:13] Sent DATA (seqNum: 117)
+{
+    packetType: DATA,
+    seqNum: 117,
+    data: submit them as part of your package. ,
+    windowSize: 13,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:13] Sent DATA (seqNum: 118)
+{
+    packetType: DATA,
+    seqNum: 118,
+    data: ,
+    windowSize: 13,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:13] Sent DATA (seqNum: 119)
+{
+    packetType: DATA,
+    seqNum: 119,
+    data: • Submit a zip file containing all the code, videos, packet captures, and documents as ,
+    windowSize: 13,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:13] Sent DATA (seqNum: 120)
+{
+    packetType: DATA,
+    seqNum: 120,
+    data: described, in the sharein folder for this course under “Final Project-FT”. ,
+    windowSize: 13,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:13] Sent DATA (seqNum: 121)
+{
+    packetType: DATA,
+    seqNum: 121,
+    data:   ,
+    windowSize: 13,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:13] Sent DATA (seqNum: 122)
+{
+    packetType: DATA,
+    seqNum: 122,
+    data: • Hand in complete and well-documented application design work, protocol design, ,
+    windowSize: 13,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:13] Sent DATA (seqNum: 123)
+{
+    packetType: DATA,
+    seqNum: 123,
+    data: and test documents in PDF format.  ,
+    windowSize: 13,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:13] Sent DATA (seqNum: 124)
+{
+    packetType: DATA,
+    seqNum: 124,
+    data: ,
+    windowSize: 13,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:13] Sent DATA (seqNum: 125)
+{
+    packetType: DATA,
+    seqNum: 125,
+    data: • Also, provide all your source code and an executable. ,
+    windowSize: 13,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:13] Window of packets sent, waiting for ACKs
+[INFO][2020-12-3 19:30:13] Received ACK (ackNum: 113)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 13,
+    ackNum: 113,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:13] Updating timeout interval: 4209
+[INFO][2020-12-3 19:30:13] Received ACK (ackNum: 114)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 13,
+    ackNum: 114,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:13] Updating timeout interval: 3895
+[INFO][2020-12-3 19:30:13] Received ACK (ackNum: 115)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 13,
+    ackNum: 115,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:13] Updating timeout interval: 3562
+[INFO][2020-12-3 19:30:13] Received ACK (ackNum: 116)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 13,
+    ackNum: 116,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:13] Updating timeout interval: 3228
+[INFO][2020-12-3 19:30:13] Received ACK (ackNum: 117)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 13,
+    ackNum: 117,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:13] Updating timeout interval: 2904
+[INFO][2020-12-3 19:30:14] Received ACK (ackNum: 118)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 13,
+    ackNum: 118,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:14] Updating timeout interval: 2597
+[INFO][2020-12-3 19:30:14] Received ACK (ackNum: 120)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 13,
+    ackNum: 120,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:14] Updating timeout interval: 2293
+[INFO][2020-12-3 19:30:14] Received ACK (ackNum: 121)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 13,
+    ackNum: 121,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:14] Updating timeout interval: 2019
+[INFO][2020-12-3 19:30:14] Received ACK (ackNum: 122)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 13,
+    ackNum: 122,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:14] Updating timeout interval: 1779
+[INFO][2020-12-3 19:30:14] Received ACK (ackNum: 123)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 13,
+    ackNum: 123,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:14] Updating timeout interval: 1563
+[INFO][2020-12-3 19:30:14] Received ACK (ackNum: 125)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 13,
+    ackNum: 125,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:14] Updating timeout interval: 1363
+[INFO][2020-12-3 19:30:14] RTT (1363) >= Timeout Interval (=1363), packet loss event detected
+[INFO][2020-12-3 19:30:14] Retransmitting 2 unACKs...
+[INFO][2020-12-3 19:30:14] Updating timeout interval: 1819
+[INFO][2020-12-3 19:30:14] Received ACK (ackNum: 119)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 13,
+    ackNum: 119,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:14] Updating timeout interval: 2123
+[INFO][2020-12-3 19:30:14] Received ACK (ackNum: 124)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 13,
+    ackNum: 124,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:14] Updating timeout interval: 2241
+[INFO][2020-12-3 19:30:14] All ACKs received
+
+[INFO][2020-12-3 19:30:14] Current window size: 12
+[INFO][2020-12-3 19:30:14] Sent DATA (seqNum: 126)
+{
+    packetType: DATA,
+    seqNum: 126,
+    data: ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:14] Sent DATA (seqNum: 127)
+{
+    packetType: DATA,
+    seqNum: 127,
+    data: • The zip package must follow the following directory structure: ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:14] Sent DATA (seqNum: 128)
+{
+    packetType: DATA,
+    seqNum: 128,
+    data: ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:14] Sent DATA (seqNum: 129)
+{
+    packetType: DATA,
+    seqNum: 129,
+    data: ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:14] Sent DATA (seqNum: 130)
+{
+    packetType: DATA,
+    seqNum: 130,
+    data: 1. Documents: will contain all the specified documents in PDF format. ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:14] Sent DATA (seqNum: 131)
+{
+    packetType: DATA,
+    seqNum: 131,
+    data: 2. Source: All of the source code ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:14] Sent DATA (seqNum: 132)
+{
+    packetType: DATA,
+    seqNum: 132,
+    data: 3. Videos: All of the demo videos ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:14] Sent DATA (seqNum: 133)
+{
+    packetType: DATA,
+    seqNum: 133,
+    data: 4. Packet Captures: Packet captures as specified above ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:14] Sent DATA (seqNum: 134)
+{
+    packetType: DATA,
+    seqNum: 134,
+    data: ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:14] Sent DATA (seqNum: 135)
+{
+    packetType: DATA,
+    seqNum: 135,
+    data:  ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:14] Sent DATA (seqNum: 136)
+{
+    packetType: DATA,
+    seqNum: 136,
+    data: ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:14] Sent DATA (seqNum: 137)
+{
+    packetType: DATA,
+    seqNum: 137,
+    data: • Your zipped package will be labelled as follows: FirstName_LastName-,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:14] Window of packets sent, waiting for ACKs
+[INFO][2020-12-3 19:30:15] Received ACK (ackNum: 127)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 127,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:15] Updating timeout interval: 2084
+[INFO][2020-12-3 19:30:15] Received ACK (ackNum: 128)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 128,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:15] Updating timeout interval: 1915
+[INFO][2020-12-3 19:30:15] Received ACK (ackNum: 129)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 129,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:15] Updating timeout interval: 1736
+[INFO][2020-12-3 19:30:15] Received ACK (ackNum: 130)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 130,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:15] Updating timeout interval: 1563
+[INFO][2020-12-3 19:30:15] Received ACK (ackNum: 131)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 131,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:15] Updating timeout interval: 1395
+[INFO][2020-12-3 19:30:15] Received ACK (ackNum: 132)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 132,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:15] Updating timeout interval: 1240
+[INFO][2020-12-3 19:30:15] Received ACK (ackNum: 133)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 133,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:15] Updating timeout interval: 1097
+[INFO][2020-12-3 19:30:15] Received ACK (ackNum: 134)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 134,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:15] Updating timeout interval: 969
+[INFO][2020-12-3 19:30:15] Received ACK (ackNum: 135)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 135,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:15] Updating timeout interval: 855
+[INFO][2020-12-3 19:30:15] Received ACK (ackNum: 136)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 136,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:15] Updating timeout interval: 776
+[INFO][2020-12-3 19:30:15] Received ACK (ackNum: 137)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 137,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:15] Updating timeout interval: 736
+[INFO][2020-12-3 19:30:15] RTT (736) >= Timeout Interval (=736), packet loss event detected
+[INFO][2020-12-3 19:30:15] Retransmitting 1 unACKs...
+[INFO][2020-12-3 19:30:15] Updating timeout interval: 909
+[INFO][2020-12-3 19:30:16] RTT (910) >= Timeout Interval (=909), packet loss event detected
+[INFO][2020-12-3 19:30:16] Retransmitting 1 unACKs...
+[INFO][2020-12-3 19:30:16] Updating timeout interval: 1192
+[INFO][2020-12-3 19:30:16] Received ACK (ackNum: 126)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 126,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:16] Updating timeout interval: 1341
+[INFO][2020-12-3 19:30:16] All ACKs received
+
+[INFO][2020-12-3 19:30:16] Current window size: 6
+[INFO][2020-12-3 19:30:16] Sent DATA (seqNum: 138)
+{
+    packetType: DATA,
+    seqNum: 138,
+    data: StudentID.zip. ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:16] Sent DATA (seqNum: 139)
+{
+    packetType: DATA,
+    seqNum: 139,
+    data: ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:16] Sent DATA (seqNum: 140)
+{
+    packetType: DATA,
+    seqNum: 140,
+    data:  ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:16] Sent DATA (seqNum: 141)
+{
+    packetType: DATA,
+    seqNum: 141,
+    data: ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:16] Sent DATA (seqNum: 142)
+{
+    packetType: DATA,
+    seqNum: 142,
+    data: Marking Guide: ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:16] Sent DATA (seqNum: 143)
+{
+    packetType: DATA,
+    seqNum: 143,
+    data:  ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:16] Window of packets sent, waiting for ACKs
+[INFO][2020-12-3 19:30:16] Received ACK (ackNum: 138)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 138,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:16] Updating timeout interval: 1390
+[INFO][2020-12-3 19:30:16] Received ACK (ackNum: 139)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 139,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:16] Updating timeout interval: 1371
+[INFO][2020-12-3 19:30:16] Received ACK (ackNum: 140)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 140,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:16] Updating timeout interval: 1306
+[INFO][2020-12-3 19:30:17] Received ACK (ackNum: 141)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 141,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:17] Updating timeout interval: 1212
+[INFO][2020-12-3 19:30:17] Received ACK (ackNum: 142)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 142,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:17] Updating timeout interval: 1107
+[INFO][2020-12-3 19:30:17] RTT (1108) >= Timeout Interval (=1107), packet loss event detected
+[INFO][2020-12-3 19:30:17] Retransmitting 1 unACKs...
+[INFO][2020-12-3 19:30:17] Updating timeout interval: 1649
+[INFO][2020-12-3 19:30:17] Received ACK (ackNum: 143)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 143,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:17] Updating timeout interval: 1678
+[INFO][2020-12-3 19:30:17] All ACKs received
+
+[INFO][2020-12-3 19:30:17] Current window size: 6
+[INFO][2020-12-3 19:30:17] Sent DATA (seqNum: 144)
+{
+    packetType: DATA,
+    seqNum: 144,
+    data: Design work and Report: 15 ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:17] Sent DATA (seqNum: 145)
+{
+    packetType: DATA,
+    seqNum: 145,
+    data: Protocol Design: 10 ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:17] Sent DATA (seqNum: 146)
+{
+    packetType: DATA,
+    seqNum: 146,
+    data: Test Document: 15 ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:17] Sent DATA (seqNum: 147)
+{
+    packetType: DATA,
+    seqNum: 147,
+    data: Protocol Functionality: 60 ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:17] Sent DATA (seqNum: 148)
+{
+    packetType: DATA,
+    seqNum: 148,
+    data:  ----- ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:17] Sent DATA (seqNum: 149)
+{
+    packetType: DATA,
+    seqNum: 149,
+    data:  Total: 100,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:17] Window of packets sent, waiting for ACKs
+[INFO][2020-12-3 19:30:18] Received ACK (ackNum: 145)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 145,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:18] Updating timeout interval: 1540
+[INFO][2020-12-3 19:30:18] Received ACK (ackNum: 146)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 146,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:18] Updating timeout interval: 1392
+[INFO][2020-12-3 19:30:18] Received ACK (ackNum: 148)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 148,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:18] Updating timeout interval: 1227
+[INFO][2020-12-3 19:30:18] Received ACK (ackNum: 149)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 149,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:18] Updating timeout interval: 1075
+[INFO][2020-12-3 19:30:18] RTT (1076) >= Timeout Interval (=1075), packet loss event detected
+[INFO][2020-12-3 19:30:18] Retransmitting 2 unACKs...
+[INFO][2020-12-3 19:30:18] Updating timeout interval: 1631
+[INFO][2020-12-3 19:30:19] Received ACK (ackNum: 144)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 144,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:19] Updating timeout interval: 1556
+[INFO][2020-12-3 19:30:19] Received ACK (ackNum: 147)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 147,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:19] Updating timeout interval: 1448
+[INFO][2020-12-3 19:30:19] All ACKs received
+
+[INFO][2020-12-3 19:30:19] Current window size: 7
+[INFO][2020-12-3 19:30:19] Sent DATA (seqNum: 150)
+{
+    packetType: DATA,
+    seqNum: 150,
+    data: END ,
+    windowSize: 7,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:19] Window of packets sent, waiting for ACKs
+[INFO][2020-12-3 19:30:19] Received ACK (ackNum: 150)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 7,
+    ackNum: 150,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:30:19] Updating timeout interval: 1408
+[INFO][2020-12-3 19:30:19] All ACKs received
+
+[INFO][2020-12-3 19:30:19] Completed Data Transfer
+[INFO][2020-12-3 19:30:19] Sending EOT Packet
+[INFO][2020-12-3 19:30:19] Terminating Transmitter...

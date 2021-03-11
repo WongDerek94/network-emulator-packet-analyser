@@ -1,0 +1,3132 @@
+[INFO][2020-12-3 19:22:39] DROPPED: transmitter->receiver (seqNum: 1)
+{
+    packetType: DATA,
+    seqNum: 1,
+    data: BEGIN,
+    windowSize: 1,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:22:41] DROPPED: transmitter->receiver (seqNum: 1)
+{
+    packetType: DATA,
+    seqNum: 1,
+    data: BEGIN,
+    windowSize: 1,
+    ackNum: 0,
+    retransmit: true,
+}
+[INFO][2020-12-3 19:22:44] DROPPED: transmitter->receiver (seqNum: 1)
+{
+    packetType: DATA,
+    seqNum: 1,
+    data: BEGIN,
+    windowSize: 1,
+    ackNum: 0,
+    retransmit: true,
+}
+[INFO][2020-12-3 19:22:48] DROPPED: transmitter->receiver (seqNum: 1)
+{
+    packetType: DATA,
+    seqNum: 1,
+    data: BEGIN,
+    windowSize: 1,
+    ackNum: 0,
+    retransmit: true,
+}
+[INFO][2020-12-3 19:22:53] DROPPED: transmitter->receiver (seqNum: 1)
+{
+    packetType: DATA,
+    seqNum: 1,
+    data: BEGIN,
+    windowSize: 1,
+    ackNum: 0,
+    retransmit: true,
+}
+[INFO][2020-12-3 19:22:58] DROPPED: transmitter->receiver (seqNum: 1)
+{
+    packetType: DATA,
+    seqNum: 1,
+    data: BEGIN,
+    windowSize: 1,
+    ackNum: 0,
+    retransmit: true,
+}
+[INFO][2020-12-3 19:23:3] DROPPED: transmitter->receiver (seqNum: 1)
+{
+    packetType: DATA,
+    seqNum: 1,
+    data: BEGIN,
+    windowSize: 1,
+    ackNum: 0,
+    retransmit: true,
+}
+[INFO][2020-12-3 19:23:8] transmitter->receiver (seqNum: 1)
+{
+    packetType: DATA,
+    seqNum: 1,
+    data: BEGIN,
+    windowSize: 1,
+    ackNum: 0,
+    retransmit: true,
+}
+[INFO][2020-12-3 19:23:8] receiver->transmitter (ackNum: 1)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 1,
+    ackNum: 1,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:8] transmitter->receiver (seqNum: 2)
+{
+    packetType: DATA,
+    seqNum: 2,
+    data: Final Project:,
+    windowSize: 1,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:8] receiver->transmitter (ackNum: 2)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 1,
+    ackNum: 2,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:8] transmitter->receiver (seqNum: 3)
+{
+    packetType: DATA,
+    seqNum: 3,
+    data: Due: December 2, 2020 at 1000 hrs. Late submissions will not be accepted. ,
+    windowSize: 2,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:8] transmitter->receiver (seqNum: 4)
+{
+    packetType: DATA,
+    seqNum: 4,
+    data: ,
+    windowSize: 2,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:8] DROPPED: receiver->transmitter (ackNum: 3)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 2,
+    ackNum: 3,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:8] DROPPED: receiver->transmitter (ackNum: 4)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 2,
+    ackNum: 4,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:13] DROPPED: transmitter->receiver (seqNum: 3)
+{
+    packetType: DATA,
+    seqNum: 3,
+    data: Due: December 2, 2020 at 1000 hrs. Late submissions will not be accepted. ,
+    windowSize: 2,
+    ackNum: 0,
+    retransmit: true,
+}
+[INFO][2020-12-3 19:23:13] transmitter->receiver (seqNum: 4)
+{
+    packetType: DATA,
+    seqNum: 4,
+    data: ,
+    windowSize: 2,
+    ackNum: 0,
+    retransmit: true,
+}
+[INFO][2020-12-3 19:23:13] receiver->transmitter (ackNum: 4)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 2,
+    ackNum: 4,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:18] transmitter->receiver (seqNum: 3)
+{
+    packetType: DATA,
+    seqNum: 3,
+    data: Due: December 2, 2020 at 1000 hrs. Late submissions will not be accepted. ,
+    windowSize: 2,
+    ackNum: 0,
+    retransmit: true,
+}
+[INFO][2020-12-3 19:23:18] DROPPED: receiver->transmitter (ackNum: 3)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 2,
+    ackNum: 3,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:23] transmitter->receiver (seqNum: 3)
+{
+    packetType: DATA,
+    seqNum: 3,
+    data: Due: December 2, 2020 at 1000 hrs. Late submissions will not be accepted. ,
+    windowSize: 2,
+    ackNum: 0,
+    retransmit: true,
+}
+[INFO][2020-12-3 19:23:23] receiver->transmitter (ackNum: 3)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 2,
+    ackNum: 3,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:23] transmitter->receiver (seqNum: 5)
+{
+    packetType: DATA,
+    seqNum: 5,
+    data: You may work in groups of two. ,
+    windowSize: 1,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:23] receiver->transmitter (ackNum: 5)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 1,
+    ackNum: 5,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:23] transmitter->receiver (seqNum: 6)
+{
+    packetType: DATA,
+    seqNum: 6,
+    data: ,
+    windowSize: 2,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:23] transmitter->receiver (seqNum: 7)
+{
+    packetType: DATA,
+    seqNum: 7,
+    data: Objective: ,
+    windowSize: 2,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:23] receiver->transmitter (ackNum: 6)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 2,
+    ackNum: 6,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:23] receiver->transmitter (ackNum: 7)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 2,
+    ackNum: 7,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:23] transmitter->receiver (seqNum: 8)
+{
+    packetType: DATA,
+    seqNum: 8,
+    data: The objective of this project is to design and implement a basic Send-And-Wait protocol ,
+    windowSize: 4,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:23] transmitter->receiver (seqNum: 9)
+{
+    packetType: DATA,
+    seqNum: 9,
+    data: simulator. The protocol will be half-duplex and use sliding windows to send multiple ,
+    windowSize: 4,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:23] transmitter->receiver (seqNum: 10)
+{
+    packetType: DATA,
+    seqNum: 10,
+    data: packets between to hosts on a LAN with an “unreliable network” between the two hosts. ,
+    windowSize: 4,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:23] transmitter->receiver (seqNum: 11)
+{
+    packetType: DATA,
+    seqNum: 11,
+    data: The following diagram depicts the model: ,
+    windowSize: 4,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:23] receiver->transmitter (ackNum: 8)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 4,
+    ackNum: 8,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:23] receiver->transmitter (ackNum: 9)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 4,
+    ackNum: 9,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:23] receiver->transmitter (ackNum: 10)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 4,
+    ackNum: 10,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:23] receiver->transmitter (ackNum: 11)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 4,
+    ackNum: 11,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:23] transmitter->receiver (seqNum: 12)
+{
+    packetType: DATA,
+    seqNum: 12,
+    data: ,
+    windowSize: 8,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:23] transmitter->receiver (seqNum: 13)
+{
+    packetType: DATA,
+    seqNum: 13,
+    data: Your Mission: ,
+    windowSize: 8,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:23] transmitter->receiver (seqNum: 14)
+{
+    packetType: DATA,
+    seqNum: 14,
+    data: • You may use any language of your choice to implement the three components shown ,
+    windowSize: 8,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:23] transmitter->receiver (seqNum: 15)
+{
+    packetType: DATA,
+    seqNum: 15,
+    data: in the diagram above. It is strongly recommended that you use your code from the ,
+    windowSize: 8,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:23] DROPPED: transmitter->receiver (seqNum: 16)
+{
+    packetType: DATA,
+    seqNum: 16,
+    data: first assignment to implement the peer stations.  ,
+    windowSize: 8,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:23] transmitter->receiver (seqNum: 17)
+{
+    packetType: DATA,
+    seqNum: 17,
+    data: ,
+    windowSize: 8,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:23] transmitter->receiver (seqNum: 18)
+{
+    packetType: DATA,
+    seqNum: 18,
+    data: • You will be designing an application layer protocol, in this case on top of UDP (in ,
+    windowSize: 8,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:23] transmitter->receiver (seqNum: 19)
+{
+    packetType: DATA,
+    seqNum: 19,
+    data: keeping with the wireless channel model). The protocol should be able to handle ,
+    windowSize: 8,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:23] receiver->transmitter (ackNum: 12)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 8,
+    ackNum: 12,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:23] receiver->transmitter (ackNum: 13)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 8,
+    ackNum: 13,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:23] DROPPED: receiver->transmitter (ackNum: 14)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 8,
+    ackNum: 14,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:23] receiver->transmitter (ackNum: 15)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 8,
+    ackNum: 15,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:23] receiver->transmitter (ackNum: 17)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 8,
+    ackNum: 17,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:23] receiver->transmitter (ackNum: 18)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 8,
+    ackNum: 18,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:23] receiver->transmitter (ackNum: 19)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 8,
+    ackNum: 19,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:26] transmitter->receiver (seqNum: 14)
+{
+    packetType: DATA,
+    seqNum: 14,
+    data: • You may use any language of your choice to implement the three components shown ,
+    windowSize: 8,
+    ackNum: 0,
+    retransmit: true,
+}
+[INFO][2020-12-3 19:23:26] transmitter->receiver (seqNum: 16)
+{
+    packetType: DATA,
+    seqNum: 16,
+    data: first assignment to implement the peer stations.  ,
+    windowSize: 8,
+    ackNum: 0,
+    retransmit: true,
+}
+[INFO][2020-12-3 19:23:27] receiver->transmitter (ackNum: 14)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 8,
+    ackNum: 14,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:27] receiver->transmitter (ackNum: 16)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 8,
+    ackNum: 16,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:27] transmitter->receiver (seqNum: 20)
+{
+    packetType: DATA,
+    seqNum: 20,
+    data: network errors such as packet loss and duplicate packets. You will implement ,
+    windowSize: 9,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:27] DROPPED: transmitter->receiver (seqNum: 21)
+{
+    packetType: DATA,
+    seqNum: 21,
+    data: timeouts and ACKs to handle retransmissions due to lost packets (ARQ). ,
+    windowSize: 9,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:27] transmitter->receiver (seqNum: 22)
+{
+    packetType: DATA,
+    seqNum: 22,
+    data: ,
+    windowSize: 9,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:27] DROPPED: transmitter->receiver (seqNum: 23)
+{
+    packetType: DATA,
+    seqNum: 23,
+    data: • The network emulator will act as an unreliable channel over with the packets will be ,
+    windowSize: 9,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:27] transmitter->receiver (seqNum: 24)
+{
+    packetType: DATA,
+    seqNum: 24,
+    data: sent. This means that transmitter will send the packets to the network emulator ,
+    windowSize: 9,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:27] transmitter->receiver (seqNum: 25)
+{
+    packetType: DATA,
+    seqNum: 25,
+    data: which in turn will forward them to the receiver. The receiver in turn will send ACKs ,
+    windowSize: 9,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:27] transmitter->receiver (seqNum: 26)
+{
+    packetType: DATA,
+    seqNum: 26,
+    data: back to the transmitter via the network emulator.,
+    windowSize: 9,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:27] transmitter->receiver (seqNum: 27)
+{
+    packetType: DATA,
+    seqNum: 27,
+    data: ,
+    windowSize: 9,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:27] transmitter->receiver (seqNum: 28)
+{
+    packetType: DATA,
+    seqNum: 28,
+    data: • Your implementation of the network emulator will include a “noise” component ,
+    windowSize: 9,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:27] DROPPED: receiver->transmitter (ackNum: 20)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 9,
+    ackNum: 20,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:27] receiver->transmitter (ackNum: 22)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 9,
+    ackNum: 22,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:27] receiver->transmitter (ackNum: 24)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 9,
+    ackNum: 24,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:27] receiver->transmitter (ackNum: 25)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 9,
+    ackNum: 25,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:27] DROPPED: receiver->transmitter (ackNum: 26)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 9,
+    ackNum: 26,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:27] receiver->transmitter (ackNum: 27)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 9,
+    ackNum: 27,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:27] receiver->transmitter (ackNum: 28)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 9,
+    ackNum: 28,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:29] transmitter->receiver (seqNum: 20)
+{
+    packetType: DATA,
+    seqNum: 20,
+    data: network errors such as packet loss and duplicate packets. You will implement ,
+    windowSize: 9,
+    ackNum: 0,
+    retransmit: true,
+}
+[INFO][2020-12-3 19:23:29] transmitter->receiver (seqNum: 21)
+{
+    packetType: DATA,
+    seqNum: 21,
+    data: timeouts and ACKs to handle retransmissions due to lost packets (ARQ). ,
+    windowSize: 9,
+    ackNum: 0,
+    retransmit: true,
+}
+[INFO][2020-12-3 19:23:29] transmitter->receiver (seqNum: 23)
+{
+    packetType: DATA,
+    seqNum: 23,
+    data: • The network emulator will act as an unreliable channel over with the packets will be ,
+    windowSize: 9,
+    ackNum: 0,
+    retransmit: true,
+}
+[INFO][2020-12-3 19:23:29] DROPPED: transmitter->receiver (seqNum: 26)
+{
+    packetType: DATA,
+    seqNum: 26,
+    data: back to the transmitter via the network emulator.,
+    windowSize: 9,
+    ackNum: 0,
+    retransmit: true,
+}
+[INFO][2020-12-3 19:23:29] receiver->transmitter (ackNum: 20)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 9,
+    ackNum: 20,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:29] receiver->transmitter (ackNum: 21)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 9,
+    ackNum: 21,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:29] receiver->transmitter (ackNum: 23)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 9,
+    ackNum: 23,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:32] transmitter->receiver (seqNum: 26)
+{
+    packetType: DATA,
+    seqNum: 26,
+    data: back to the transmitter via the network emulator.,
+    windowSize: 9,
+    ackNum: 0,
+    retransmit: true,
+}
+[INFO][2020-12-3 19:23:32] receiver->transmitter (ackNum: 26)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 9,
+    ackNum: 26,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:32] transmitter->receiver (seqNum: 29)
+{
+    packetType: DATA,
+    seqNum: 29,
+    data: which will randomly discard packets (and ACKs as well) to achieve a specified bit ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:32] transmitter->receiver (seqNum: 30)
+{
+    packetType: DATA,
+    seqNum: 30,
+    data: error rate. This can be specified as part of command line arguments.  ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:32] transmitter->receiver (seqNum: 31)
+{
+    packetType: DATA,
+    seqNum: 31,
+    data: ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:32] transmitter->receiver (seqNum: 32)
+{
+    packetType: DATA,
+    seqNum: 32,
+    data: • Your overall application architecture will have a minimum of three source modules: ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:32] DROPPED: transmitter->receiver (seqNum: 33)
+{
+    packetType: DATA,
+    seqNum: 33,
+    data: transmitter, receiver, and network as well as any associated include files and libraries ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:32] transmitter->receiver (seqNum: 34)
+{
+    packetType: DATA,
+    seqNum: 34,
+    data: if necessary. For the purposes of simplicity it is recommended that the IP addresses ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:32] receiver->transmitter (ackNum: 29)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 29,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:32] receiver->transmitter (ackNum: 30)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 30,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:32] receiver->transmitter (ackNum: 31)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 31,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:32] DROPPED: receiver->transmitter (ackNum: 32)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 32,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:32] receiver->transmitter (ackNum: 34)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 34,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:34] transmitter->receiver (seqNum: 32)
+{
+    packetType: DATA,
+    seqNum: 32,
+    data: • Your overall application architecture will have a minimum of three source modules: ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: true,
+}
+[INFO][2020-12-3 19:23:34] transmitter->receiver (seqNum: 33)
+{
+    packetType: DATA,
+    seqNum: 33,
+    data: transmitter, receiver, and network as well as any associated include files and libraries ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: true,
+}
+[INFO][2020-12-3 19:23:34] receiver->transmitter (ackNum: 32)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 32,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:34] receiver->transmitter (ackNum: 33)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 33,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] transmitter->receiver (seqNum: 35)
+{
+    packetType: DATA,
+    seqNum: 35,
+    data: and of the transmitter, sender and network be extracted from a common ,
+    windowSize: 7,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] transmitter->receiver (seqNum: 36)
+{
+    packetType: DATA,
+    seqNum: 36,
+    data: configuration file. The port numbers can also be part of the configuration file. ,
+    windowSize: 7,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] transmitter->receiver (seqNum: 37)
+{
+    packetType: DATA,
+    seqNum: 37,
+    data: ,
+    windowSize: 7,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] transmitter->receiver (seqNum: 38)
+{
+    packetType: DATA,
+    seqNum: 38,
+    data: • One side will be allowed to acquired the channel first and send all of its packets. An ,
+    windowSize: 7,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] transmitter->receiver (seqNum: 39)
+{
+    packetType: DATA,
+    seqNum: 39,
+    data: End of Transmission (EOT) will indicate that it has completed sending all of its ,
+    windowSize: 7,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] transmitter->receiver (seqNum: 40)
+{
+    packetType: DATA,
+    seqNum: 40,
+    data: packets, after which the other side can start sending packets.  ,
+    windowSize: 7,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] transmitter->receiver (seqNum: 41)
+{
+    packetType: DATA,
+    seqNum: 41,
+    data: ,
+    windowSize: 7,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] receiver->transmitter (ackNum: 35)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 7,
+    ackNum: 35,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] receiver->transmitter (ackNum: 36)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 7,
+    ackNum: 36,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] receiver->transmitter (ackNum: 37)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 7,
+    ackNum: 37,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] receiver->transmitter (ackNum: 38)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 7,
+    ackNum: 38,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] receiver->transmitter (ackNum: 39)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 7,
+    ackNum: 39,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] receiver->transmitter (ackNum: 40)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 7,
+    ackNum: 40,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] receiver->transmitter (ackNum: 41)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 7,
+    ackNum: 41,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] transmitter->receiver (seqNum: 42)
+{
+    packetType: DATA,
+    seqNum: 42,
+    data: • The following structure depicts a suggested packet format (C example): ,
+    windowSize: 14,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] transmitter->receiver (seqNum: 43)
+{
+    packetType: DATA,
+    seqNum: 43,
+    data: ,
+    windowSize: 14,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] transmitter->receiver (seqNum: 44)
+{
+    packetType: DATA,
+    seqNum: 44,
+    data: struct packet  ,
+    windowSize: 14,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] transmitter->receiver (seqNum: 45)
+{
+    packetType: DATA,
+    seqNum: 45,
+    data: { ,
+    windowSize: 14,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] transmitter->receiver (seqNum: 46)
+{
+    packetType: DATA,
+    seqNum: 46,
+    data: int PacketType; ,
+    windowSize: 14,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] transmitter->receiver (seqNum: 47)
+{
+    packetType: DATA,
+    seqNum: 47,
+    data: int SeqNum; ,
+    windowSize: 14,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] transmitter->receiver (seqNum: 48)
+{
+    packetType: DATA,
+    seqNum: 48,
+    data: char data[PayloadLen]; ,
+    windowSize: 14,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] transmitter->receiver (seqNum: 49)
+{
+    packetType: DATA,
+    seqNum: 49,
+    data: int WindowSize;  ,
+    windowSize: 14,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] transmitter->receiver (seqNum: 50)
+{
+    packetType: DATA,
+    seqNum: 50,
+    data: int AckNum; ,
+    windowSize: 14,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] transmitter->receiver (seqNum: 51)
+{
+    packetType: DATA,
+    seqNum: 51,
+    data: } ,
+    windowSize: 14,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] transmitter->receiver (seqNum: 52)
+{
+    packetType: DATA,
+    seqNum: 52,
+    data: ,
+    windowSize: 14,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] transmitter->receiver (seqNum: 53)
+{
+    packetType: DATA,
+    seqNum: 53,
+    data: • The PacketType field indicates the type (numeric code) of the packet, i.e., ACK or ,
+    windowSize: 14,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] transmitter->receiver (seqNum: 54)
+{
+    packetType: DATA,
+    seqNum: 54,
+    data: Data or EOT.  ,
+    windowSize: 14,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] transmitter->receiver (seqNum: 55)
+{
+    packetType: DATA,
+    seqNum: 55,
+    data: ,
+    windowSize: 14,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] DROPPED: receiver->transmitter (ackNum: 42)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 14,
+    ackNum: 42,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] receiver->transmitter (ackNum: 43)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 14,
+    ackNum: 43,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] receiver->transmitter (ackNum: 44)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 14,
+    ackNum: 44,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] receiver->transmitter (ackNum: 45)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 14,
+    ackNum: 45,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] receiver->transmitter (ackNum: 46)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 14,
+    ackNum: 46,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] receiver->transmitter (ackNum: 47)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 14,
+    ackNum: 47,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] receiver->transmitter (ackNum: 48)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 14,
+    ackNum: 48,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] receiver->transmitter (ackNum: 49)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 14,
+    ackNum: 49,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] receiver->transmitter (ackNum: 50)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 14,
+    ackNum: 50,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] receiver->transmitter (ackNum: 51)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 14,
+    ackNum: 51,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] receiver->transmitter (ackNum: 52)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 14,
+    ackNum: 52,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] receiver->transmitter (ackNum: 53)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 14,
+    ackNum: 53,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] receiver->transmitter (ackNum: 54)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 14,
+    ackNum: 54,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:35] receiver->transmitter (ackNum: 55)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 14,
+    ackNum: 55,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 42)
+{
+    packetType: DATA,
+    seqNum: 42,
+    data: • The following structure depicts a suggested packet format (C example): ,
+    windowSize: 14,
+    ackNum: 0,
+    retransmit: true,
+}
+[INFO][2020-12-3 19:23:36] receiver->transmitter (ackNum: 42)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 14,
+    ackNum: 42,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 56)
+{
+    packetType: DATA,
+    seqNum: 56,
+    data: • The SeqNum field is a sequence number used to number data packets. ,
+    windowSize: 11,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 57)
+{
+    packetType: DATA,
+    seqNum: 57,
+    data: ,
+    windowSize: 11,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 58)
+{
+    packetType: DATA,
+    seqNum: 58,
+    data: • The AckNum field is used to indicate the previous data packet data packet being ,
+    windowSize: 11,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 59)
+{
+    packetType: DATA,
+    seqNum: 59,
+    data: acknowledged and the next expected sequence number.   ,
+    windowSize: 11,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 60)
+{
+    packetType: DATA,
+    seqNum: 60,
+    data: ,
+    windowSize: 11,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 61)
+{
+    packetType: DATA,
+    seqNum: 61,
+    data: • The WindowSize field would typically be used at the start of the session to establish ,
+    windowSize: 11,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 62)
+{
+    packetType: DATA,
+    seqNum: 62,
+    data: the number of packets that will be sent from the transmitter to the receiver.  ,
+    windowSize: 11,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 63)
+{
+    packetType: DATA,
+    seqNum: 63,
+    data: ,
+    windowSize: 11,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 64)
+{
+    packetType: DATA,
+    seqNum: 64,
+    data: Constraints ,
+    windowSize: 11,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 65)
+{
+    packetType: DATA,
+    seqNum: 65,
+    data: ,
+    windowSize: 11,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 66)
+{
+    packetType: DATA,
+    seqNum: 66,
+    data: • The basic protocol is Send-and-Wait, however it is a modified version in that it will use ,
+    windowSize: 11,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] receiver->transmitter (ackNum: 56)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 11,
+    ackNum: 56,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] receiver->transmitter (ackNum: 57)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 11,
+    ackNum: 57,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] receiver->transmitter (ackNum: 58)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 11,
+    ackNum: 58,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] receiver->transmitter (ackNum: 59)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 11,
+    ackNum: 59,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] receiver->transmitter (ackNum: 60)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 11,
+    ackNum: 60,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] receiver->transmitter (ackNum: 61)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 11,
+    ackNum: 61,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] receiver->transmitter (ackNum: 62)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 11,
+    ackNum: 62,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] receiver->transmitter (ackNum: 63)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 11,
+    ackNum: 63,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] receiver->transmitter (ackNum: 64)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 11,
+    ackNum: 64,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] receiver->transmitter (ackNum: 65)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 11,
+    ackNum: 65,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] receiver->transmitter (ackNum: 66)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 11,
+    ackNum: 66,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 67)
+{
+    packetType: DATA,
+    seqNum: 67,
+    data: a sliding window to send multiple frames rather than single frames. You will still have ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 68)
+{
+    packetType: DATA,
+    seqNum: 68,
+    data: to implement a timer to wait for ACKs or to initiate a retransmission in the case of a ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 69)
+{
+    packetType: DATA,
+    seqNum: 69,
+    data: no response for each frame in the window.,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 70)
+{
+    packetType: DATA,
+    seqNum: 70,
+    data:    ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 71)
+{
+    packetType: DATA,
+    seqNum: 71,
+    data: • Your window will slide forward with each ACK received, until all of the frames in the ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 72)
+{
+    packetType: DATA,
+    seqNum: 72,
+    data: current window have been ACK’d.  ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 73)
+{
+    packetType: DATA,
+    seqNum: 73,
+    data: ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 74)
+{
+    packetType: DATA,
+    seqNum: 74,
+    data: • Both the transmitter and receiver will print out ongoing the session as simple text ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 75)
+{
+    packetType: DATA,
+    seqNum: 75,
+    data: lines containing the type of packet sent, type of packet received, the status of the ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 76)
+{
+    packetType: DATA,
+    seqNum: 76,
+    data: window, sequence numbers, etc. The format of this display will be left up to you.  ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 77)
+{
+    packetType: DATA,
+    seqNum: 77,
+    data: ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 78)
+{
+    packetType: DATA,
+    seqNum: 78,
+    data: • Your application will maintain a log file at both the transmitter and the receiver. ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 79)
+{
+    packetType: DATA,
+    seqNum: 79,
+    data: This can be used for both troubleshooting and for validating your protocol.  ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 80)
+{
+    packetType: DATA,
+    seqNum: 80,
+    data: ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 81)
+{
+    packetType: DATA,
+    seqNum: 81,
+    data: • Your network module will take arguments such as the BER (Bit Error Rate), average ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 82)
+{
+    packetType: DATA,
+    seqNum: 82,
+    data: delay per packet, and will also have a configuration file specifying IP addresses and ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 83)
+{
+    packetType: DATA,
+    seqNum: 83,
+    data: port numbers for the transmitter and receiver. ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 84)
+{
+    packetType: DATA,
+    seqNum: 84,
+    data: ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 85)
+{
+    packetType: DATA,
+    seqNum: 85,
+    data: • You are required to submit an extensive test document complete with screen shots, ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] transmitter->receiver (seqNum: 86)
+{
+    packetType: DATA,
+    seqNum: 86,
+    data: videos, and packet captures validating all of the protocol characteristics you have ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:36] receiver->transmitter (ackNum: 67)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 67,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] receiver->transmitter (ackNum: 68)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 68,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] receiver->transmitter (ackNum: 69)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 69,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] receiver->transmitter (ackNum: 70)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 70,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] receiver->transmitter (ackNum: 71)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 71,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] receiver->transmitter (ackNum: 72)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 72,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] receiver->transmitter (ackNum: 73)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 73,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] receiver->transmitter (ackNum: 74)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 74,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] receiver->transmitter (ackNum: 75)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 75,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] receiver->transmitter (ackNum: 76)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 76,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] receiver->transmitter (ackNum: 77)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 77,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] receiver->transmitter (ackNum: 78)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 78,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] receiver->transmitter (ackNum: 79)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 79,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] receiver->transmitter (ackNum: 80)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 80,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] receiver->transmitter (ackNum: 81)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 81,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] receiver->transmitter (ackNum: 82)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 82,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] receiver->transmitter (ackNum: 83)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 83,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] receiver->transmitter (ackNum: 84)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 84,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] receiver->transmitter (ackNum: 85)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 85,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] receiver->transmitter (ackNum: 86)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 86,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] transmitter->receiver (seqNum: 87)
+{
+    packetType: DATA,
+    seqNum: 87,
+    data: implemented. Examples are successful transactions, retransmissions, timeouts, etc.  ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] transmitter->receiver (seqNum: 88)
+{
+    packetType: DATA,
+    seqNum: 88,
+    data: ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] transmitter->receiver (seqNum: 89)
+{
+    packetType: DATA,
+    seqNum: 89,
+    data: • As part of this project you will provide a protocol design document (separate from ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] transmitter->receiver (seqNum: 90)
+{
+    packetType: DATA,
+    seqNum: 90,
+    data: the application design document), which will clearly describe your Send-And-Wait ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] transmitter->receiver (seqNum: 91)
+{
+    packetType: DATA,
+    seqNum: 91,
+    data: protocol using FSMs and technical descriptions of each state shown. Use the ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] transmitter->receiver (seqNum: 92)
+{
+    packetType: DATA,
+    seqNum: 92,
+    data: approach presented in your textbook (rdt protocol). ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] transmitter->receiver (seqNum: 93)
+{
+    packetType: DATA,
+    seqNum: 93,
+    data: ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] transmitter->receiver (seqNum: 94)
+{
+    packetType: DATA,
+    seqNum: 94,
+    data: • Lastly, I have kept the project itself fairly open-ended to allow you to be as creative ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] transmitter->receiver (seqNum: 95)
+{
+    packetType: DATA,
+    seqNum: 95,
+    data: as you wish. In other words other than the half-duplex, multiple packet ARQ ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] transmitter->receiver (seqNum: 96)
+{
+    packetType: DATA,
+    seqNum: 96,
+    data: protocol requirement I am quite flexible in allowing you to add features and choose ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] transmitter->receiver (seqNum: 97)
+{
+    packetType: DATA,
+    seqNum: 97,
+    data: your own implementation method. As always if have ideas on how you will like to ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] transmitter->receiver (seqNum: 98)
+{
+    packetType: DATA,
+    seqNum: 98,
+    data: implement this by all means discuss it with me in class.  ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] transmitter->receiver (seqNum: 99)
+{
+    packetType: DATA,
+    seqNum: 99,
+    data: ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] transmitter->receiver (seqNum: 100)
+{
+    packetType: DATA,
+    seqNum: 100,
+    data: • Bonus marks will be awarded for implementations that show creativity and ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] transmitter->receiver (seqNum: 101)
+{
+    packetType: DATA,
+    seqNum: 101,
+    data: imagination.  ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] transmitter->receiver (seqNum: 102)
+{
+    packetType: DATA,
+    seqNum: 102,
+    data: ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] transmitter->receiver (seqNum: 103)
+{
+    packetType: DATA,
+    seqNum: 103,
+    data: Demo Requirements: ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] transmitter->receiver (seqNum: 104)
+{
+    packetType: DATA,
+    seqNum: 104,
+    data: • You will be required to demonstrate your complete application using videos on all ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] transmitter->receiver (seqNum: 105)
+{
+    packetType: DATA,
+    seqNum: 105,
+    data: three machines.  ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] transmitter->receiver (seqNum: 106)
+{
+    packetType: DATA,
+    seqNum: 106,
+    data: ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] DROPPED: receiver->transmitter (ackNum: 87)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 87,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] receiver->transmitter (ackNum: 88)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 88,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] receiver->transmitter (ackNum: 89)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 89,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] receiver->transmitter (ackNum: 90)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 90,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] receiver->transmitter (ackNum: 91)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 91,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] receiver->transmitter (ackNum: 92)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 92,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] receiver->transmitter (ackNum: 93)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 93,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:37] receiver->transmitter (ackNum: 94)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 94,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] receiver->transmitter (ackNum: 95)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 95,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] receiver->transmitter (ackNum: 96)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 96,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] receiver->transmitter (ackNum: 97)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 97,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] receiver->transmitter (ackNum: 98)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 98,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] receiver->transmitter (ackNum: 99)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 99,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] receiver->transmitter (ackNum: 100)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 100,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] receiver->transmitter (ackNum: 101)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 101,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] DROPPED: receiver->transmitter (ackNum: 102)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 102,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] receiver->transmitter (ackNum: 103)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 103,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] receiver->transmitter (ackNum: 104)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 104,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] receiver->transmitter (ackNum: 105)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 105,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] receiver->transmitter (ackNum: 106)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 106,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] transmitter->receiver (seqNum: 87)
+{
+    packetType: DATA,
+    seqNum: 87,
+    data: implemented. Examples are successful transactions, retransmissions, timeouts, etc.  ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: true,
+}
+[INFO][2020-12-3 19:23:38] transmitter->receiver (seqNum: 102)
+{
+    packetType: DATA,
+    seqNum: 102,
+    data: ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: true,
+}
+[INFO][2020-12-3 19:23:38] receiver->transmitter (ackNum: 87)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 87,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] receiver->transmitter (ackNum: 102)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 102,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] transmitter->receiver (seqNum: 107)
+{
+    packetType: DATA,
+    seqNum: 107,
+    data: • The demo video, which covers each one of your test cases. In other words, it will be ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] transmitter->receiver (seqNum: 108)
+{
+    packetType: DATA,
+    seqNum: 108,
+    data: similar to the live lab demo except you will be preparing a video of each test as ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] transmitter->receiver (seqNum: 109)
+{
+    packetType: DATA,
+    seqNum: 109,
+    data: opposed to me standing beside you observing each test.   ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] transmitter->receiver (seqNum: 110)
+{
+    packetType: DATA,
+    seqNum: 110,
+    data: ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] transmitter->receiver (seqNum: 111)
+{
+    packetType: DATA,
+    seqNum: 111,
+    data: • Also, make sure you have packet captures at all three machines for each test. ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] transmitter->receiver (seqNum: 112)
+{
+    packetType: DATA,
+    seqNum: 112,
+    data: ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] transmitter->receiver (seqNum: 113)
+{
+    packetType: DATA,
+    seqNum: 113,
+    data: To Be Submitted Electronically: ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] transmitter->receiver (seqNum: 114)
+{
+    packetType: DATA,
+    seqNum: 114,
+    data: • As part of your submission, also submit demo videos of your application (see above). ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] transmitter->receiver (seqNum: 115)
+{
+    packetType: DATA,
+    seqNum: 115,
+    data: ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] transmitter->receiver (seqNum: 116)
+{
+    packetType: DATA,
+    seqNum: 116,
+    data: • Capture all network traffic related to your application on all three machines and ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] transmitter->receiver (seqNum: 117)
+{
+    packetType: DATA,
+    seqNum: 117,
+    data: submit them as part of your package. ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] transmitter->receiver (seqNum: 118)
+{
+    packetType: DATA,
+    seqNum: 118,
+    data: ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] receiver->transmitter (ackNum: 107)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 107,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] receiver->transmitter (ackNum: 108)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 108,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] receiver->transmitter (ackNum: 109)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 109,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] receiver->transmitter (ackNum: 110)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 110,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] receiver->transmitter (ackNum: 111)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 111,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:38] receiver->transmitter (ackNum: 112)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 112,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] receiver->transmitter (ackNum: 113)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 113,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] receiver->transmitter (ackNum: 114)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 114,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] receiver->transmitter (ackNum: 115)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 115,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] receiver->transmitter (ackNum: 116)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 116,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] receiver->transmitter (ackNum: 117)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 117,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] receiver->transmitter (ackNum: 118)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 118,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] transmitter->receiver (seqNum: 119)
+{
+    packetType: DATA,
+    seqNum: 119,
+    data: • Submit a zip file containing all the code, videos, packet captures, and documents as ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] transmitter->receiver (seqNum: 120)
+{
+    packetType: DATA,
+    seqNum: 120,
+    data: described, in the sharein folder for this course under “Final Project-FT”. ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] transmitter->receiver (seqNum: 121)
+{
+    packetType: DATA,
+    seqNum: 121,
+    data:   ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] transmitter->receiver (seqNum: 122)
+{
+    packetType: DATA,
+    seqNum: 122,
+    data: • Hand in complete and well-documented application design work, protocol design, ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] transmitter->receiver (seqNum: 123)
+{
+    packetType: DATA,
+    seqNum: 123,
+    data: and test documents in PDF format.  ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] transmitter->receiver (seqNum: 124)
+{
+    packetType: DATA,
+    seqNum: 124,
+    data: ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] transmitter->receiver (seqNum: 125)
+{
+    packetType: DATA,
+    seqNum: 125,
+    data: • Also, provide all your source code and an executable. ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] transmitter->receiver (seqNum: 126)
+{
+    packetType: DATA,
+    seqNum: 126,
+    data: ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] transmitter->receiver (seqNum: 127)
+{
+    packetType: DATA,
+    seqNum: 127,
+    data: • The zip package must follow the following directory structure: ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] transmitter->receiver (seqNum: 128)
+{
+    packetType: DATA,
+    seqNum: 128,
+    data: ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] transmitter->receiver (seqNum: 129)
+{
+    packetType: DATA,
+    seqNum: 129,
+    data: ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] transmitter->receiver (seqNum: 130)
+{
+    packetType: DATA,
+    seqNum: 130,
+    data: 1. Documents: will contain all the specified documents in PDF format. ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] transmitter->receiver (seqNum: 131)
+{
+    packetType: DATA,
+    seqNum: 131,
+    data: 2. Source: All of the source code ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] transmitter->receiver (seqNum: 132)
+{
+    packetType: DATA,
+    seqNum: 132,
+    data: 3. Videos: All of the demo videos ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] transmitter->receiver (seqNum: 133)
+{
+    packetType: DATA,
+    seqNum: 133,
+    data: 4. Packet Captures: Packet captures as specified above ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] DROPPED: transmitter->receiver (seqNum: 134)
+{
+    packetType: DATA,
+    seqNum: 134,
+    data: ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] transmitter->receiver (seqNum: 135)
+{
+    packetType: DATA,
+    seqNum: 135,
+    data:  ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] transmitter->receiver (seqNum: 136)
+{
+    packetType: DATA,
+    seqNum: 136,
+    data: ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] transmitter->receiver (seqNum: 137)
+{
+    packetType: DATA,
+    seqNum: 137,
+    data: • Your zipped package will be labelled as follows: FirstName_LastName-,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] transmitter->receiver (seqNum: 138)
+{
+    packetType: DATA,
+    seqNum: 138,
+    data: StudentID.zip. ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] receiver->transmitter (ackNum: 119)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 119,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] receiver->transmitter (ackNum: 120)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 120,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] receiver->transmitter (ackNum: 121)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 121,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] receiver->transmitter (ackNum: 122)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 122,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] receiver->transmitter (ackNum: 123)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 123,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] receiver->transmitter (ackNum: 124)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 124,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] DROPPED: receiver->transmitter (ackNum: 125)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 125,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] receiver->transmitter (ackNum: 126)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 126,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] receiver->transmitter (ackNum: 127)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 127,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] receiver->transmitter (ackNum: 128)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 128,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] receiver->transmitter (ackNum: 129)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 129,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] receiver->transmitter (ackNum: 130)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 130,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] receiver->transmitter (ackNum: 131)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 131,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] receiver->transmitter (ackNum: 132)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 132,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] receiver->transmitter (ackNum: 133)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 133,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] receiver->transmitter (ackNum: 135)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 135,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] receiver->transmitter (ackNum: 136)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 136,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] receiver->transmitter (ackNum: 137)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 137,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:39] receiver->transmitter (ackNum: 138)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 138,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:40] transmitter->receiver (seqNum: 125)
+{
+    packetType: DATA,
+    seqNum: 125,
+    data: • Also, provide all your source code and an executable. ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: true,
+}
+[INFO][2020-12-3 19:23:40] transmitter->receiver (seqNum: 134)
+{
+    packetType: DATA,
+    seqNum: 134,
+    data: ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: true,
+}
+[INFO][2020-12-3 19:23:40] DROPPED: receiver->transmitter (ackNum: 125)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 125,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:40] receiver->transmitter (ackNum: 134)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 134,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:41] transmitter->receiver (seqNum: 125)
+{
+    packetType: DATA,
+    seqNum: 125,
+    data: • Also, provide all your source code and an executable. ,
+    windowSize: 20,
+    ackNum: 0,
+    retransmit: true,
+}
+[INFO][2020-12-3 19:23:42] receiver->transmitter (ackNum: 125)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 20,
+    ackNum: 125,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] transmitter->receiver (seqNum: 139)
+{
+    packetType: DATA,
+    seqNum: 139,
+    data: ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] transmitter->receiver (seqNum: 140)
+{
+    packetType: DATA,
+    seqNum: 140,
+    data:  ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] transmitter->receiver (seqNum: 141)
+{
+    packetType: DATA,
+    seqNum: 141,
+    data: ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] transmitter->receiver (seqNum: 142)
+{
+    packetType: DATA,
+    seqNum: 142,
+    data: Marking Guide: ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] transmitter->receiver (seqNum: 143)
+{
+    packetType: DATA,
+    seqNum: 143,
+    data:  ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] transmitter->receiver (seqNum: 144)
+{
+    packetType: DATA,
+    seqNum: 144,
+    data: Design work and Report: 15 ,
+    windowSize: 6,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] receiver->transmitter (ackNum: 139)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 139,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] receiver->transmitter (ackNum: 140)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 140,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] receiver->transmitter (ackNum: 141)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 141,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] receiver->transmitter (ackNum: 142)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 142,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] receiver->transmitter (ackNum: 143)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 143,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] receiver->transmitter (ackNum: 144)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 6,
+    ackNum: 144,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] transmitter->receiver (seqNum: 145)
+{
+    packetType: DATA,
+    seqNum: 145,
+    data: Protocol Design: 10 ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] transmitter->receiver (seqNum: 146)
+{
+    packetType: DATA,
+    seqNum: 146,
+    data: Test Document: 15 ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] transmitter->receiver (seqNum: 147)
+{
+    packetType: DATA,
+    seqNum: 147,
+    data: Protocol Functionality: 60 ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] transmitter->receiver (seqNum: 148)
+{
+    packetType: DATA,
+    seqNum: 148,
+    data:  ----- ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] transmitter->receiver (seqNum: 149)
+{
+    packetType: DATA,
+    seqNum: 149,
+    data:  Total: 100,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] transmitter->receiver (seqNum: 150)
+{
+    packetType: DATA,
+    seqNum: 150,
+    data: END ,
+    windowSize: 12,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] receiver->transmitter (ackNum: 145)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 145,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] receiver->transmitter (ackNum: 146)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 146,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] receiver->transmitter (ackNum: 147)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 147,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] receiver->transmitter (ackNum: 148)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 148,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] receiver->transmitter (ackNum: 149)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 149,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] receiver->transmitter (ackNum: 150)
+{
+    packetType: ACK,
+    seqNum: 0,
+    data: (null),
+    windowSize: 12,
+    ackNum: 150,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] transmitter->receiver (EOT)
+{
+    packetType: EOT,
+    seqNum: 0,
+    data: (null),
+    windowSize: 0,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] transmitter->receiver (EOT)
+{
+    packetType: EOT,
+    seqNum: 0,
+    data: (null),
+    windowSize: 0,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] transmitter->receiver (EOT)
+{
+    packetType: EOT,
+    seqNum: 0,
+    data: (null),
+    windowSize: 0,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] transmitter->receiver (EOT)
+{
+    packetType: EOT,
+    seqNum: 0,
+    data: (null),
+    windowSize: 0,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] DROPPED: transmitter->receiver (EOT)
+{
+    packetType: EOT,
+    seqNum: 0,
+    data: (null),
+    windowSize: 0,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] transmitter->receiver (EOT)
+{
+    packetType: EOT,
+    seqNum: 0,
+    data: (null),
+    windowSize: 0,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] transmitter->receiver (EOT)
+{
+    packetType: EOT,
+    seqNum: 0,
+    data: (null),
+    windowSize: 0,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] transmitter->receiver (EOT)
+{
+    packetType: EOT,
+    seqNum: 0,
+    data: (null),
+    windowSize: 0,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] transmitter->receiver (EOT)
+{
+    packetType: EOT,
+    seqNum: 0,
+    data: (null),
+    windowSize: 0,
+    ackNum: 0,
+    retransmit: false,
+}
+[INFO][2020-12-3 19:23:42] transmitter->receiver (EOT)
+{
+    packetType: EOT,
+    seqNum: 0,
+    data: (null),
+    windowSize: 0,
+    ackNum: 0,
+    retransmit: false,
+}
